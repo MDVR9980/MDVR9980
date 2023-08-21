@@ -1,6 +1,6 @@
-### سلام دوستان من هستم محممدداود وهاب رجائی دانشجوی رشته مهندسی کامپیوتر دانشگاه حکیم سبزواری 😇
-#### علاقه‌مند به هوش مصنوعی و پردازش تصویر
-##### بک اند - جنگو ❤️🐍
+### Hello friends, I am MohammadDavood vahhab Rajaee, a computer engineering student at Hakim Sabzevari University 😇
+#### Interested in artificial intelligence and image processing
+##### Django backend developer ❤️🐍
 <!--
 MDVR9980/MDVR9980 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
