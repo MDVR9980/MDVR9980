@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=34F500&vCenter=true&width=435&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Davood+;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Back-end+dev.;Always+learning+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=34F500&vCenter=true&width=435&height=45&lines=Hi+;I'm+Davood+;I+love+AI+;Junior+Back-end+dev.;Always+learning+)](https://git.io/typing-svg)
 
 
 ### Hello friends, I am MohammadDavood vahhab Rajaee, a computer engineering student at Hakim Sabzevari University 😇
 #### Interested in artificial intelligence and image processing
-##### Django backend developer ❤️🐍
+##### 
 <!--
 MDVR9980/MDVR9980 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
