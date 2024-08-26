@@ -12,8 +12,8 @@ I am a computer engineer and I enjoy programming.
 
 <!-- Social Media Links -->  
 ### Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](in/md-vahhabrajaee-56800a24a)   
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-vahhabrajaee-56800a24a)  
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/MDVR_9980)
 <!-- Extra Section -->  
 ### My Skills  
 - Web Development  
