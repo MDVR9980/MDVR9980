@@ -1,10 +1,10 @@
 # Computer engineer 😉
 
 <!-- Header with gradient background -->  
-<img width=100% src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=FFFFFF"/>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=welcome%20guys&fontSize=40&fontColor=FFFFFF"/>  
 
 <!-- Typing animation -->  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Carla+Regina;+Welcome!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+M(Mohammad)+D(David)+V(Vahhab)+R(Rajaee);+!)](https://git.io/typing-svg)  
 
 <!-- Description section -->  
 ### About Me  
