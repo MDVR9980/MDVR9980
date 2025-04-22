@@ -14,11 +14,32 @@ I enjoy programming and am always exploring new technologies to enhance my skill
 ---
 
 ## 💻 Skills & Technologies  
-- **Languages:** Python, C++, JavaScript  
-- **AI & Machine Learning:** TensorFlow, PyTorch, Scikit-learn  
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js  
-- **Tools & Technologies:** Git, Docker, Jupyter Notebooks  
+- **Languages & Frameworks:**
+  - **Python** (Expert)
+  - **C++** (Expert)
+  - **JavaScript** (Intermediate)
+  - **PHP** (Intermediate)
+  - **HTML, CSS** (Intermediate)
+  - **React, Node.js** (Intermediate)
+- **AI & Machine Learning:**
+  - **TensorFlow** (Intermediate)
+  - **PyTorch** (Intermediate)
+  - **Scikit-learn** (Expert)
+  - **Keras** (Intermediate)
+- **Data Science:**
+  - **Pandas** (Expert)
+  - **NumPy** (Expert)
+  - **Matplotlib** (Expert)
+  - **Seaborn** (Expert)
+- **Web Development:**
+  - **React** (Intermediate)
+  - **Node.js** (Intermediate)
+- **Tools & Technologies:**
+  - **Git** (Intermediate)
+  - **Docker** (Intermediate)
+  - **Jupyter Notebooks** (Expert)
+  - **PostgreSQL** (Intermediate)
+  - **MongoDB** (Intermediate)
 
 ---
 
@@ -27,6 +48,7 @@ I enjoy programming and am always exploring new technologies to enhance my skill
 - **Deep Learning**  
 - **Natural Language Processing (NLP)**  
 - **Data Science and Analytics**  
+- **Cloud Technologies** (AWS, Azure)
 
 ---
 
@@ -57,4 +79,3 @@ Feel free to reach out to me for collaboration, discussions, or just to talk abo
 ---
 
 ![Snake animation](https://github.com/MDVR9980/MDVR9980/blob/output/github-contribution-grid-snake.svg)
-
