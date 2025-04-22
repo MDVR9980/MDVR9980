@@ -20,7 +20,7 @@ I enjoy programming and am always exploring new technologies to enhance my skill
   - **JavaScript** (Intermediate)
   - **PHP** (Intermediate)
   - **HTML, CSS** (Intermediate)
-  - **React, Node.js** (Intermediate)
+  - **Django** (Intermediate)
 - **AI & Machine Learning:**
   - **TensorFlow** (Intermediate)
   - **PyTorch** (Intermediate)
@@ -32,13 +32,16 @@ I enjoy programming and am always exploring new technologies to enhance my skill
   - **Matplotlib** (Expert)
   - **Seaborn** (Expert)
 - **Web Development:**
-  - **React** (Intermediate)
-  - **Node.js** (Intermediate)
+  - **Django** (Intermediate)
 - **Tools & Technologies:**
-  - **Git** (Intermediate)
+- - **Git** (Intermediate)
+  - **Linux** (Intermediate)
   - **Docker** (Intermediate)
   - **Jupyter Notebooks** (Expert)
+  - **Sql Server** (Intermediate)
+  - **Mysql** (Intermediate)
   - **PostgreSQL** (Intermediate)
+  - **Redis** (Intermediate)
   - **MongoDB** (Intermediate)
 
 ---
