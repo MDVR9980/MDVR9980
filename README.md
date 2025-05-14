@@ -72,7 +72,7 @@ I am working on various projects related to AI and Data Science. Some of the mos
 Feel free to reach out to me for collaboration, discussions, or just to talk about AI and Data Science!
 
 - [LinkedIn](https://linkedin.com/in/md-vahhabrajaee-56800a24a)  
-- [Telegram](https://t.me/MDVR_9980)  
+- [Telegram](https://t.me/MDVR0480)  
 
 ---
 
