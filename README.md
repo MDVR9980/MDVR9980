@@ -28,7 +28,8 @@ I enjoy programming and am always exploring new technologies to enhance my skill
   - **Keras** 
 - **Data Science:**
   - **Pandas** 
-  - **NumPy** 
+  - **NumPy**
+  - **Bokeh** 
   - **Matplotlib** 
   - **Seaborn** 
 - **Web Development:**
