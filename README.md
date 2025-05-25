@@ -1,81 +1,66 @@
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=160&section=header&text=MD.VR%20|%20AI%20Engineer%20🚀&fontSize=35&fontAlign=center&fontColor=FFFFFF"/>
 
-# 👨‍💻 MD.VR - Computer Engineer & AI Enthusiast 🚀
-
-<!-- Header with gradient background -->  
-<img width=100% src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=40&fontColor=FFFFFF"/>  
-
-<!-- Typing animation -->  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+MD.VR;+Computer+Engineer;+Passionate+About+AI+and+Data+Science)](https://git.io/typing-svg)  
-
-## 🚀 About Me  
-I am a Computer Engineer with a deep passion for **Artificial Intelligence (AI)** and **Data Science**. Currently, I'm actively learning and expanding my knowledge in these fields. My journey is driven by motivation and an eagerness to explore the possibilities of AI. I am determined to continue my studies and pursue a **Master's in Artificial Intelligence**.  
-I enjoy programming and am always exploring new technologies to enhance my skills.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=DA70D6&center=true&vCenter=true&width=1000&lines=👨‍💻+Hi+there!+I'm+MD.VR;💡+AI+Engineer+%7C+ML+Explorer;🔬+Always+Learning+Something+New!" />
+</p>
 
 ---
 
-## 💻 Skills & Technologies  
-- **Languages & Frameworks:**
-  - **Python** 
-  - **C++** 
-  - **JavaScript** 
-  - **PHP**
-  - **HTML, CSS** 
-  - **Django** 
-- **AI & Machine Learning:**
-  - **TensorFlow** 
-  - **PyTorch** 
-  - **Scikit-learn** 
-  - **Keras** 
-- **Data Science:**
-  - **Pandas** 
-  - **NumPy**
-  - **Bokeh** 
-  - **Matplotlib** 
-  - **Seaborn** 
-- **Web Development:**
-  - **Django** 
-- **Tools & Technologies:**
-- - **Git** 
-  - **Linux** 
-  - **Docker** 
-  - **Jupyter Notebooks** 
-  - **Sql Server** 
-  - **Mysql** 
-  - **PostgreSQL** 
-  - **Redis** 
-  - **MongoDB** 
+## 🚀 About Me
+🎓 Computer Engineer | 🤖 AI & ML Enthusiast | 🌍 Tech Explorer  
+
+I'm passionate about turning data into impactful solutions through **AI, Machine Learning**, and **Data Science**. I’m currently focused on deepening my knowledge in **AI**, working on innovative projects, and pursuing a **Master’s in Artificial Intelligence**.
 
 ---
 
-## 🌱 Currently Learning  
-- **Artificial Intelligence (AI)**  
-- **Deep Learning**  
-- **Natural Language Processing (NLP)**  
-- **Data Science and Analytics**  
-- **Cloud Technologies** (AWS, Azure)
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,django,tensorflow,pytorch,keras,linux,docker,git,jupyter,mysql,postgres,mongodb,redis" />
+</p>
 
 ---
 
-## 📈 My GitHub Stats  
-![MD.VR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 📊 GitHub Stats & Streaks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=radical&count_private=true&hide=prs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDVR9980&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## 🤖 AI & Data Science Projects  
-I am working on various projects related to AI and Data Science. Some of the most exciting ones include:
-- **Predictive Modeling:** Building models to predict house prices, using regression algorithms like **Linear Regression**, **Ridge Regression**, and **XGBoost**.
-- **AI-Based Projects:** Developing chatbots, recommendation systems, and more using **TensorFlow** and **PyTorch**.
-- **Data Analysis Projects:** Exploring large datasets to uncover patterns and insights using **Pandas**, **Matplotlib**, and **Seaborn**.
+## 💡 Ongoing Projects
+- 🏡 **House Price Prediction** — using Regression (Linear, Ridge, XGBoost)
+- 🤖 **AI Chatbots & NLP Models** — with TensorFlow & Hugging Face
+- 📊 **Data Visualization Dashboards** — using Bokeh, Seaborn & Plotly
 
 ---
 
-## 🌍 Let's Connect!  
-Feel free to reach out to me for collaboration, discussions, or just to talk about AI and Data Science!
-
-- [LinkedIn](https://linkedin.com/in/md-vahhabrajaee-56800a24a)  
-- [Telegram](https://t.me/MDVR0480)  
+## 🌱 Currently Learning
+- ✨ Deep Learning Architectures (CNNs, RNNs)
+- 🧠 NLP with Hugging Face Transformers
+- ☁️ Cloud ML Deployment (AWS, GCP)
+- 📊 Big Data & Scalable ML (Hadoop, Spark)
 
 ---
 
-<!-- Footer with colorful background -->  
-<img width=100% src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=60&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontColor=FFFFFF"/>
+## 🏆 Achievements & Highlights
+- 🥇 **Completed 10+ ML Projects**
+- 💻 **500+ Commits in 2024**
+- 📈 **Top 5% on Kaggle Notebooks**
+- 🧪 **Contributor to Open Source ML Tools**
+
+---
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/md-vahhabrajaee-56800a24a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://t.me/MDVR0480"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=25&fontColor=FFFFFF"/>
