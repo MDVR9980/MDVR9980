@@ -79,7 +79,3 @@ Feel free to reach out to me for collaboration, discussions, or just to talk abo
 
 <!-- Footer with colorful background -->  
 <img width=100% src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=60&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontColor=FFFFFF"/>
-
----
-
-![Snake animation](https://github.com/MDVR9980/MDVR9980/blob/output/github-contribution-grid-snake.svg)
