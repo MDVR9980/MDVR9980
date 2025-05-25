@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&pause=1000&color=DA70D6&center=true&vCenter=true&width=1000&lines=سلام!+من+MD.VR+هستم;مهندس+هوش+مصنوعی+و+کاوشگر+یادگیری+ماشین;در+حال+یادگیری+چیزهای+جدید+هستم" />
+  <img src="https://your-upload-link.com/your-banner.png" alt="Welcome Banner" />
 </p>
 
 ---
