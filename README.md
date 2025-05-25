@@ -1,11 +1,5 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=160&section=header&text=MD.VR%20|%20AI%20Engineer%20🚀&fontSize=35&fontAlign=center&fontColor=FFFFFF"/>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://your-upload-link.com/your-banner.png" alt="Welcome Banner" />
-</p>
-
 ---
 
 ## 🚀 About Me
