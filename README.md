@@ -11,7 +11,7 @@ I'm passionate about turning data into impactful solutions through **AI, Machine
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,django,tensorflow,pytorch,keras,linux,docker,git,jupyter,mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,django,tensorflow,pytorch,linux,docker,git,mysql,postgres,mongodb,redis" />
 </p>
 
 ---
