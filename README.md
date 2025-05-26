@@ -58,15 +58,15 @@ A regression-based ML model using Linear Regression, Ridge, and XGBoost. Exports
 A Telegram bot that enables anonymous chatting, matchmaking, user verification, and profile management using SQLite and Python.  
 [Anonymous-Connect-Bot](https://github.com/MDVR9980/Anonymous-Connect-Bot)
 
-### 📈 Talking Calculator (with Voice)
+### 🔢 Talking Calculator (with Voice)
 Web-based calculator that speaks input/output using your own recorded voice.  
 [Talking-calculator](https://github.com/MDVR9980/Talking-calculator)
 
-### 🏡 Covid Xray Detection
+### 🔬 Covid Xray Detection
 Deep learning model for detecting COVID-19 from chest X-ray images using Convolutional Neural Networks (CNN) in Keras.
 [covid-xray-detection](https://github.com/MDVR9980/covid-xray-detection)
 
-### 🏡 Imdb Sentiment Analysis
+### 💬 Imdb Sentiment Analysis
 A regression-based ML model using Linear Regression, Ridge, and XGBoost. Exports CSV predictions and visualizes trends with Bokeh.  
 [imdb-sentiment-analysis](https://github.com/MDVR9980/imdb-sentiment-analysis)
 
