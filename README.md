@@ -50,21 +50,25 @@ Currently focused on deepening my expertise in **Deep Learning, NLP, and Scalabl
 
 ## 🔥 Featured Projects
 
-### 🏡 House Price Prediction
+### 🏡 Advanced House Regression
 A regression-based ML model using Linear Regression, Ridge, and XGBoost. Exports CSV predictions and visualizes trends with Bokeh.  
-[GitHub Repo](https://github.com/MDVR9980/House-Price-Prediction)
+[advanced-house-regression](https://github.com/MDVR9980/advanced-house-regression)
 
-### 🤖 Anonymous AI Chatbot
+### 🤖 Anonymous Connect Bot
 A Telegram bot that enables anonymous chatting, matchmaking, user verification, and profile management using SQLite and Python.  
-[GitHub Repo](https://github.com/MDVR9980/Anonymous-AI-Chatbot)
-
-### ⚖️ SQL vs NoSQL Performance Comparison
-Connected Python to SQL and NoSQL DBs and benchmarked Insert, Update, Search, and Delete operations.  
-[Request Documentation](mailto:mdvahhabrajaee@gmail.com)
+[Anonymous-Connect-Bot](https://github.com/MDVR9980/Anonymous-Connect-Bot)
 
 ### 📈 Talking Calculator (with Voice)
 Web-based calculator that speaks input/output using your own recorded voice.  
-[GitHub Repo](https://github.com/MDVR9980/Talking-calculator)
+[Talking-calculator](https://github.com/MDVR9980/Talking-calculator)
+
+### 🏡 Covid Xray Detection
+Deep learning model for detecting COVID-19 from chest X-ray images using Convolutional Neural Networks (CNN) in Keras.
+[covid-xray-detection](https://github.com/MDVR9980/covid-xray-detection)
+
+### 🏡 Imdb Sentiment Analysis
+A regression-based ML model using Linear Regression, Ridge, and XGBoost. Exports CSV predictions and visualizes trends with Bokeh.  
+[imdb-sentiment-analysis](https://github.com/MDVR9980/imdb-sentiment-analysis)
 
 ---
 
@@ -81,8 +85,8 @@ Web-based calculator that speaks input/output using your own recorded voice.
 - 🗃️ [Full-stack Web Development – Hakim Sabzevari University](https://github.com/MDVR9980)
 - 🧰 [LPIC-1 & 2 Linux Admin – Maktabkhooneh](https://maktabkhooneh.org/course)
 - 🚀 [Docker for DevOps – Maktabkhooneh](https://maktabkhooneh.org/course)
-- 🖌️ [HTML/CSS – Sabzlearn](https://sabzlearn.ir/)
-- ✨ [Node.js – Sabzlearn](https://sabzlearn.ir/)
+- ✨ [Django – Sabzlearn](https://sabzlearn.ir/)
+- ✨ [Django – 7learn](https://7learn.com/course/python-web-expert)
 
 ---
 
