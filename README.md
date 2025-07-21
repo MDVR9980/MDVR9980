@@ -54,14 +54,13 @@ Currently focused on deepening my expertise in **Deep Learning, NLP, and Scalabl
 A regression-based ML model using Linear Regression, Ridge, and XGBoost. Exports CSV predictions and visualizes trends with Bokeh.  
 [advanced-house-regression](https://github.com/MDVR9980/advanced-house-regression)
 
-### 🔢 Talking Calculator (with Voice)
-Web-based calculator that speaks input/output using your own recorded voice.  
-[Talking-calculator](https://github.com/MDVR9980/Talking-calculator)
-
 ### 💬 Imdb Sentiment Analysis
 A regression-based ML model using Linear Regression, Ridge, and XGBoost. Exports CSV predictions and visualizes trends with Bokeh.  
 [imdb-sentiment-analysis](https://github.com/MDVR9980/imdb-sentiment-analysis)
 
+### 🔢 Talking Calculator (with Voice)
+Web-based calculator that speaks input/output using your own recorded voice.  
+[Talking-calculator](https://github.com/MDVR9980/Talking-calculator)
 ---
 
 ## 🌱 Currently Learning
