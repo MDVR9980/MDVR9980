@@ -62,10 +62,6 @@ A Telegram bot that enables anonymous chatting, matchmaking, user verification, 
 Web-based calculator that speaks input/output using your own recorded voice.  
 [Talking-calculator](https://github.com/MDVR9980/Talking-calculator)
 
-### 🔬 Covid Xray Detection
-Deep learning model for detecting COVID-19 from chest X-ray images using Convolutional Neural Networks (CNN) in Keras.
-[covid-xray-detection](https://github.com/MDVR9980/covid-xray-detection)
-
 ### 💬 Imdb Sentiment Analysis
 A regression-based ML model using Linear Regression, Ridge, and XGBoost. Exports CSV predictions and visualizes trends with Bokeh.  
 [imdb-sentiment-analysis](https://github.com/MDVR9980/imdb-sentiment-analysis)
