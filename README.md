@@ -54,10 +54,6 @@ Currently focused on deepening my expertise in **Deep Learning, NLP, and Scalabl
 A regression-based ML model using Linear Regression, Ridge, and XGBoost. Exports CSV predictions and visualizes trends with Bokeh.  
 [advanced-house-regression](https://github.com/MDVR9980/advanced-house-regression)
 
-### 🤖 Anonymous Connect Bot
-A Telegram bot that enables anonymous chatting, matchmaking, user verification, and profile management using SQLite and Python.  
-[Anonymous-Connect-Bot](https://github.com/MDVR9980/Anonymous-Connect-Bot)
-
 ### 🔢 Talking Calculator (with Voice)
 Web-based calculator that speaks input/output using your own recorded voice.  
 [Talking-calculator](https://github.com/MDVR9980/Talking-calculator)
