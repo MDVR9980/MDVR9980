@@ -27,7 +27,7 @@
   <a href="mailto:mdvr9980@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   <a href="https://kaggle.com/">
+  <a href="https://www.kaggle.com/mdvr9980">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </div>
