@@ -65,31 +65,31 @@ I am **MDVR**, an AI Engineer based in Iran. I have filtered out everything else
 
 ### 👁️ Computer Vision
 <a href="https://github.com/MDVR9980/saffronImageProcess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=saffronImageProcess&theme=radical&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=saffronImageProcess&theme=radical&bg_color=0D1117&t=1" />
 </a>
 
 <br><br>
 
 ### 🗣️ NLP & Sentiment Analysis
 <a href="https://github.com/MDVR9980/telegram-sentiment-analysis-fa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=telegram-sentiment-analysis-fa&theme=radical&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=telegram-sentiment-analysis-fa&theme=radical&bg_color=0D1117&t=1" />
 </a>
 <a href="https://github.com/MDVR9980/Employment-Scam-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Employment-Scam-Detection&theme=radical&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Employment-Scam-Detection&theme=radical&bg_color=0D1117&t=1" />
 </a>
 <br>
 <a href="https://github.com/MDVR9980/Golestan-Clustering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Golestan-Clustering&theme=radical&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Golestan-Clustering&theme=radical&bg_color=0D1117&t=1" />
 </a>
 <a href="https://github.com/MDVR9980/imdb-sentiment-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=imdb-sentiment-analysis&theme=radical&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=imdb-sentiment-analysis&theme=radical&bg_color=0D1117&t=1" />
 </a>
 
 <br><br>
 
 ### 📊 Data Science & ML
 <a href="https://github.com/MDVR9980/advanced-house-regression">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=advanced-house-regression&theme=radical&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=advanced-house-regression&theme=radical&bg_color=0D1117&t=1" />
 </a>
 
 </div>
