@@ -1,9 +1,9 @@
-<!-- 1. HEADER: Visual Wave (No Text inside image) -->
+<!-- 1. HEADER: Visual Wave -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&animation=fadeIn"/>
 </div>
 
-<!-- 2. TYPOGRAPHY: Big Name & Typing Effect -->
+<!-- 2. TYPOGRAPHY: Name & Typing -->
 <div align="center">
   <h1 align="center" style="font-size: 60px; margin-bottom: 0;">MDVR</h1>
   <a href="https://git.io/typing-svg">
@@ -13,7 +13,7 @@
 
 <br>
 
-<!-- 3. SOCIALS: Modern Hex/Badge Style -->
+<!-- 3. SOCIALS -->
 <div align="center">
   <a href="https://linkedin.com/in/md-vahhabrajaee-56800a24a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -34,7 +34,7 @@
 
 <br>
 
-<!-- 4. TROPHIES: 3D Achievements -->
+<!-- 4. TROPHIES -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
     <img src="https://github-profile-trophies.vercel.app/?username=MDVR9980&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
@@ -59,40 +59,40 @@ I am **MDVR**, an AI Engineer based in Iran. I have filtered out everything else
 
 ---
 
-## 🧬 Featured Projects (Graphical Showcase)
+## 🧬 Featured Projects
 
 <div align="center">
 
 ### 👁️ Computer Vision
 <a href="https://github.com/MDVR9980/Iranian-License-Plate-Segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Iranian-License-Plate-Segmentation&theme=radical&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Iranian-License-Plate-Segmentation&theme=radical&bg_color=0D1117" />
 </a>
 <a href="https://github.com/MDVR9980/saffronImageProcess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=saffronImageProcess&theme=radical&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=saffronImageProcess&theme=radical&bg_color=0D1117" />
 </a>
 
 <br><br>
 
 ### 🗣️ NLP & Sentiment Analysis
 <a href="https://github.com/MDVR9980/telegram-sentiment-analysis-fa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=telegram-sentiment-analysis-fa&theme=radical&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=telegram-sentiment-analysis-fa&theme=radical&bg_color=0D1117" />
 </a>
 <a href="https://github.com/MDVR9980/Employment-Scam-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Employment-Scam-Detection&theme=radical&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Employment-Scam-Detection&theme=radical&bg_color=0D1117" />
 </a>
 <br>
 <a href="https://github.com/MDVR9980/Golestan-Clustering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Golestan-Clustering&theme=radical&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Golestan-Clustering&theme=radical&bg_color=0D1117" />
 </a>
 <a href="https://github.com/MDVR9980/imdb-sentiment-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=imdb-sentiment-analysis&theme=radical&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=imdb-sentiment-analysis&theme=radical&bg_color=0D1117" />
 </a>
 
 <br><br>
 
 ### 📊 Data Science & ML
 <a href="https://github.com/MDVR9980/advanced-house-regression">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=advanced-house-regression&theme=radical&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=advanced-house-regression&theme=radical&bg_color=0D1117" />
 </a>
 
 </div>
@@ -102,16 +102,12 @@ I am **MDVR**, an AI Engineer based in Iran. I have filtered out everything else
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="stats graph" />
-  
-  <!-- Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
 <br>
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDVR9980&bg_color=0D1117&color=ff0055&line=00F260&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
