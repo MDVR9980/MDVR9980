@@ -1,27 +1,30 @@
-<!-- Header & Banner -->
+<!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=MDVR&fontSize=60&fontAlign=center&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP&descFontSize=18&descAlign=center&fontFamily=Fira%20Code"/>
-  
-  <br>
-  
-  <!-- Typing Effect -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=220&section=header&text=MDVR&fontSize=70&fontAlign=center&fontColor=ffffff&desc=Artificial%20Intelligence%20Engineer&descFontSize=25&descAlign=center&fontFamily=Montserrat"/>
+</div>
+
+<!-- Typing Effect -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Coding+Neural+Networks...;Analyzing+Complex+Data...;Building+Smart+Agents...;Python+%7C+PyTorch+%7C+OpenCV" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Developing+Computer+Vision+Systems;Architecting+NLP+Models;Solving+Problems+with+Deep+Learning;Python+%7C+PyTorch+%7C+OpenCV" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-<!-- Social Links -->
+<!-- Social Links (Clean & Uniform) -->
 <div align="center">
   <a href="https://linkedin.com/in/md-vahhabrajaee-56800a24a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/MDVR0480">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/mdvr.0480">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mdvr9980@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
    <a href="https://kaggle.com/">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -30,77 +33,80 @@
 
 <br>
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-I am **MDVR**, a Computer Engineer fully focused on **Artificial Intelligence**. 
+I am **MDVR**, a specialized **AI Engineer** focused on turning data into intelligence. 
+I have completely shifted my focus from general software development to **Deep Learning**, **Computer Vision**, and **NLP**. I enjoy reading research papers and implementing them in Python.
 
-I specialize in extracting insights from data, whether it's visual (Computer Vision) or textual (NLP). My transition from general engineering to AI is driven by a passion for math and algorithms. I am currently researching **Deep Learning** architectures and **Clustering Algorithms**.
-
-- 🔭 **Current Focus:** Unsupervised Learning & Advanced Computer Vision.
-- 🐍 **Primary Language:** Python (Exclusive).
-- 📍 **Location:** Mashhad, Iran.
+- 🔭 **Current Research:** Unsupervised Learning (Clustering) & Transformer Architectures.
+- 🧠 **Core Competency:** Building End-to-End ML Pipelines.
+- 📍 **Based in:** Mashhad, Iran.
 
 ---
 
-## 🛠️ The AI Stack
-
-I use tools that define modern Machine Learning.
+## 🛠️ Tech Stack (AI Focused)
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab&theme=dark" />
-  <!-- AI & ML Libraries -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy,matplotlib,seaborn&theme=dark" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,matplotlib,seaborn,jupyter&theme=light" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,mongodb,postgres&theme=light" />
 </div>
 
 ---
 
-## 🧬 Selected Projects
+## 🧬 Comprehensive Project List
 
-Here are my key contributions to AI, categorized by domain.
+Here is the complete list of my AI & Python projects, categorized by domain.
 
-### 👁️ Computer Vision (CV)
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Iranian License Plate Segmentation](https://github.com/MDVR9980/Iranian-License-Plate-Segmentation)** | detection and segmentation of license plates using Deep Learning techniques. | `Python` `OpenCV` `Deep Learning` |
-| **[Saffron Image Processing](https://github.com/MDVR9980/saffronImageProcess)** | Agricultural AI project for analyzing saffron flowers using image processing algorithms. | `OpenCV` `NumPy` `Image Proc` |
-| **[Computer Vision Assignments](https://github.com/MDVR9980/Computer-Vision-Assinment)** | Implementation of core CV algorithms (Filters, Edge Detection, Transformation). | `Jupyter` `CV2` |
+### 👁️ Computer Vision & Image Processing
+| Project | Description |
+| :--- | :--- |
+| **[Iranian License Plate Segmentation](https://github.com/MDVR9980/Iranian-License-Plate-Segmentation)** | detection and segmentation of vehicle license plates using OpenCV and Deep Learning. |
+| **[Saffron Image Processing](https://github.com/MDVR9980/saffronImageProcess)** | An agricultural AI project for analyzing and processing images of saffron flowers. |
+| **[Computer Vision Assignments](https://github.com/MDVR9980/Computer-Vision-Assinment)** | A collection of core CV algorithms implemented from scratch (Filters, Edge Detection, Morphological Ops). |
 
-### 🗣️ Natural Language Processing (NLP)
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Persian Sentiment Analysis](https://github.com/MDVR9980/telegram-sentiment-analysis-fa)** | Analyzing sentiment in Persian Telegram messages using NLP techniques. | `NLP` `Pandas` `Text Mining` |
-| **[Employment Scam Detection](https://github.com/MDVR9980/Employment-Scam-Detection)** | A classification model to detect fraudulent job postings based on text descriptions. | `Scikit-learn` `Classification` |
-| **[IMDB Sentiment Analysis](https://github.com/MDVR9980/imdb-sentiment-analysis)** | Classic sentiment classification using Deep Learning on the IMDB dataset. | `TensorFlow` `Keras` |
+### 🗣️ NLP (Natural Language Processing)
+| Project | Description |
+| :--- | :--- |
+| **[Persian Telegram Sentiment](https://github.com/MDVR9980/telegram-sentiment-analysis-fa)** | Sentiment analysis on Persian text data extracted from Telegram channels. |
+| **[Employment Scam Detection](https://github.com/MDVR9980/Employment-Scam-Detection)** | A classification model designed to identify fraudulent job postings. |
+| **[IMDB Sentiment Analysis](https://github.com/MDVR9980/imdb-sentiment-analysis)** | Binary sentiment classification (Positive/Negative) on movie reviews using Deep Learning. |
 
-### 📊 Data Science & Machine Learning
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Golestan Clustering](https://github.com/MDVR9980/Golestan-Clustering)** | *Updated Now!* Applying clustering algorithms (K-Means, DBSCAN) on complex datasets. | `Unsupervised Learning` `Clustering` |
-| **[Advanced House Regression](https://github.com/MDVR9980/advanced-house-regression)** | Predicting prices using Ensemble methods (XGBoost, Ridge) with high accuracy. | `Regression` `XGBoost` |
-| **[Deep Learning Assignments](https://github.com/MDVR9980/Deep-Learning-Assinment)** | Neural Network implementations and architecture experiments. | `NN` `Backpropagation` |
+### 📊 Data Science, Clustering & Regression
+| Project | Description |
+| :--- | :--- |
+| **[Golestan Clustering](https://github.com/MDVR9980/Golestan-Clustering)** | **(Latest)** Applying advanced clustering algorithms (K-Means, DBSCAN) on the Golestan dataset. |
+| **[Advanced House Regression](https://github.com/MDVR9980/advanced-house-regression)** | Predicting house prices using Ensemble Learning (XGBoost, Ridge, Lasso) with high precision. |
+| **[Deep Learning Assignments](https://github.com/MDVR9980/Deep-Learning-Assinment)** | Implementation of Neural Networks, Backpropagation, and activation functions. |
+
+### 🤖 Intelligent Bots & Automation
+| Project | Description |
+| :--- | :--- |
+| **[Anonymous Connect Bot](https://github.com/MDVR9980/Anonymous-Connect-Bot)** | A complex Telegram bot for anonymous user matching written in Python. |
+| **[Python Telegram Bot Lib](https://github.com/MDVR9980/PythonTelegramBot)** | Custom implementations and utilities for building telegram bots. |
+| **[MDVR Private Bot](https://github.com/MDVR9980/MDVR_Pv_Bot)** | A personal assistant bot for managing tasks and automation. |
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Statistics
 
 <div align="center">
-  <!-- Stats: Hiding PHP and HTML to focus on Python/AI -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=nightowl&count_private=true&hide_border=true&bg_color=011627&hide=php,html,css,javascript,blade" height="150" alt="stats graph" />
+  <!-- Stats Card: Transparent background to fit any theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=transparent&count_private=true&hide_border=false&title_color=0072ff&text_color=555&icon_color=0072ff&hide=php,html,css,javascript,blade,hack,scss" height="150" alt="stats graph" />
   
-  <!-- Languages: Highlighting Python -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=nightowl&hide_border=true&bg_color=011627&hide=php,html,css,javascript,blade,hack" height="150" alt="languages graph" />
+  <!-- Languages: Shows ONLY Python and AI related languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=transparent&hide_border=false&title_color=0072ff&text_color=555&hide=php,html,css,javascript,blade,hack,scss" height="150" alt="languages graph" />
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDVR9980&theme=nightowl&hide_border=true&background=011627" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDVR9980&theme=transparent&hide_border=false&ring=0072ff&fire=0072ff&currStreakLabel=0072ff" alt="streak graph" />
 </div>
 
 ---
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=80&section=footer&text=MDVR%20%7C%20Building%20Intelligence&fontSize=20&fontColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&text=MDVR%20%7C%20AI%20&fontSize=20&fontColor=ffffff"/>
 </div>
