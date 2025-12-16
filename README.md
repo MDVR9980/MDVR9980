@@ -1,19 +1,19 @@
-<!-- 1. HEADER: Just the Visual Wave (No Text inside to prevent overlap) -->
+<!-- 1. HEADER: Visual Wave Only (No Text inside image = No Overlap) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=150&section=header&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=150&section=header&animation=fadeIn"/>
 </div>
 
-<!-- 2. TYPOGRAPHY: Big, Clean Name & Typing Effect -->
+<!-- 2. TYPOGRAPHY: Big Name & Typing Effect -->
 <div align="center">
-  <h1 align="center">MDVR</h1>
+  <h1 align="center" style="font-size: 60px; margin-bottom: 0;">MDVR</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision+%7C+NLP;Turning+Data+into+Intelligence;Python+Mastery;Coding+Neural+Networks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Deep+Learning;Computer+Vision+%26+NLP+Researcher;Coding+Neural+Networks;Python+%7C+PyTorch+%7C+OpenCV" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<!-- 3. SOCIALS: Modern Badges -->
+<!-- 3. SOCIALS: Modern Hex/Badge Style -->
 <div align="center">
   <a href="https://linkedin.com/in/md-vahhabrajaee-56800a24a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -34,10 +34,10 @@
 
 <br>
 
-<!-- 4. TROPHIES: Visual 3D Achievements (The "Best in World" Touch) -->
+<!-- 4. TROPHIES: 3D Achievements (Best Visual) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=MDVR9980&theme=onestar&no-frame=true&margin-w=15&row=1&column=7" />
+    <img src="https://github-profile-trophies.vercel.app/?username=MDVR9980&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
   </a>
 </div>
 
@@ -92,20 +92,21 @@ Only my best work in AI and Python.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Stats: Using "Dracula" theme for high contrast neon look -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=282a36&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="stats graph" />
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0f0c29&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="stats graph" />
   
-  <!-- Languages: ONLY Python visible -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="languages graph" />
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=dark&hide_border=true&bg_color=0f0c29&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
 <br>
 
+<!-- Activity Graph: The REPLACEMENT for the broken image -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDVR9980&theme=dracula&hide_border=true&background=282a36" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDVR9980&bg_color=0f0c29&color=7F5AF0&line=00ff9d&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <!-- Footer Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:ffaf7b,50:d76d77,0:3a1c71&height=80&section=footer&text=&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:24243e,0:0f0c29&height=80&section=footer&text=&animation=fadeIn"/>
 </div>
