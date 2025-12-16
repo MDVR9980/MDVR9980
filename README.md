@@ -1,24 +1,24 @@
-<!-- Header & Dynamic Banner -->
+<!-- Header & Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d42,100:8d99ae&height=180&section=header&text=MohammadDavood%20VR&fontSize=40&fontAlign=center&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Deep%20Learning%20Researcher&descFontSize=20&descAlign=center"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=MDVR&fontSize=60&fontAlign=center&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP&descFontSize=18&descAlign=center&fontFamily=Fira%20Code"/>
   
   <br>
   
-  <!-- Typing Effect: Focused strictly on AI/Data -->
+  <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=EF233C&center=true&vCenter=true&width=600&lines=Training+Neural+Networks...;Architecting+Scalable+ML+Pipelines...;Exploring+Transformers+%26+LLMs...;Python+%7C+PyTorch+%7C+TensorFlow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Coding+Neural+Networks...;Analyzing+Complex+Data...;Building+Smart+Agents...;Python+%7C+PyTorch+%7C+OpenCV" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-<!-- Social Links (Modern Style) -->
+<!-- Social Links -->
 <div align="center">
   <a href="https://linkedin.com/in/md-vahhabrajaee-56800a24a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/MDVR0480">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://instagram.com/mdvr.0480">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mdvr9980@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,94 +26,81 @@
    <a href="https://kaggle.com/">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://huggingface.co/">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
 </div>
 
 <br>
 
-## 🧬 About Me
+## ⚡ About Me
 
-Hi, I'm **MohammadDavood (MD.VR)**. I have pivoted fully from general software engineering to the frontier of **Artificial Intelligence**.
+I am **MDVR**, a Computer Engineer fully focused on **Artificial Intelligence**. 
 
-I am passionate about **teaching machines to understand the world**. My current focus is on **Deep Learning architectures**, **Natural Language Processing (NLP)**, and building production-ready **AI pipelines (MLOps)**. I believe in data-driven decision-making and am currently preparing for my **Master's in AI**.
+I specialize in extracting insights from data, whether it's visual (Computer Vision) or textual (NLP). My transition from general engineering to AI is driven by a passion for math and algorithms. I am currently researching **Deep Learning** architectures and **Clustering Algorithms**.
 
-- 🔭 **Research Interest:** Transformers, LLMs, and Computer Vision.
-- 🚀 **Current Focus:** Optimizing model inference and deploying models with Docker.
-- ⚡ **Fun Fact:** I treat loss functions like a video game high score—always trying to minimize them!
+- 🔭 **Current Focus:** Unsupervised Learning & Advanced Computer Vision.
+- 🐍 **Primary Language:** Python (Exclusive).
+- 📍 **Location:** Mashhad, Iran.
 
 ---
 
-## 🦾 The AI Arsenal (Tech Stack)
+## 🛠️ The AI Stack
 
-I focus on tools that handle data, train models, and deploy intelligence.
+I use tools that define modern Machine Learning.
 
-### 🧠 Core AI & Deep Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,matlab&theme=dark" />
-</div>
-
-### 📊 Data Engineering & Analytics
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,mysql,postgres,mongodb&theme=dark" />
-</div>
-
-### 🌩️ MLOps & Deployment
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,aws,gcp,cpp&theme=dark" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab&theme=dark" />
+  <!-- AI & ML Libraries -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy,matplotlib,seaborn&theme=dark" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux&theme=dark" />
 </div>
 
 ---
 
-## 🧪 Research & Projects
+## 🧬 Selected Projects
 
-Selected works demonstrating my capabilities in Machine Learning and Data Science.
+Here are my key contributions to AI, categorized by domain.
 
-| Project | Domain | Tech Stack |
+### 👁️ Computer Vision (CV)
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[🏡 Advanced House Price Prediction](https://github.com/MDVR9980/advanced-house-regression)** | **Regression / Ensemble Learning**<br>Predicting real estate values using stacked models (Ridge, XGBoost). Features extensive EDA and Bokeh visualizations. | `XGBoost` `Scikit-learn` `Pandas` `Bokeh` |
-| **[💬 IMDB Sentiment Classifier](https://github.com/MDVR9980/imdb-sentiment-analysis)** | **NLP / Deep Learning**<br>A binary classification model for movie reviews. Implements text vectorization and neural network layers for semantic analysis. | `TensorFlow` `Keras` `NLTK` `Python` |
-| **[🔢 Voice-Activated Interface](https://github.com/MDVR9980/Talking-calculator)** | **HCI / Audio Processing**<br>An experimental interface that processes voice inputs for computational tasks, bridging web APIs with audio data. | `Audio API` `JavaScript` `Voice Processing` |
-| **[🤖 Intelligent Chat Agent](https://github.com/MDVR9980)** | **Chatbot / Automation**<br>A Telegram-based bot architecture designed for anonymous user matching, capable of scaling to handle concurrent sessions. | `Python` `Aiogram` `AsyncIO` `PostgreSQL` |
+| **[Iranian License Plate Segmentation](https://github.com/MDVR9980/Iranian-License-Plate-Segmentation)** | detection and segmentation of license plates using Deep Learning techniques. | `Python` `OpenCV` `Deep Learning` |
+| **[Saffron Image Processing](https://github.com/MDVR9980/saffronImageProcess)** | Agricultural AI project for analyzing saffron flowers using image processing algorithms. | `OpenCV` `NumPy` `Image Proc` |
+| **[Computer Vision Assignments](https://github.com/MDVR9980/Computer-Vision-Assinment)** | Implementation of core CV algorithms (Filters, Edge Detection, Transformation). | `Jupyter` `CV2` |
+
+### 🗣️ Natural Language Processing (NLP)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Persian Sentiment Analysis](https://github.com/MDVR9980/telegram-sentiment-analysis-fa)** | Analyzing sentiment in Persian Telegram messages using NLP techniques. | `NLP` `Pandas` `Text Mining` |
+| **[Employment Scam Detection](https://github.com/MDVR9980/Employment-Scam-Detection)** | A classification model to detect fraudulent job postings based on text descriptions. | `Scikit-learn` `Classification` |
+| **[IMDB Sentiment Analysis](https://github.com/MDVR9980/imdb-sentiment-analysis)** | Classic sentiment classification using Deep Learning on the IMDB dataset. | `TensorFlow` `Keras` |
+
+### 📊 Data Science & Machine Learning
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Golestan Clustering](https://github.com/MDVR9980/Golestan-Clustering)** | *Updated Now!* Applying clustering algorithms (K-Means, DBSCAN) on complex datasets. | `Unsupervised Learning` `Clustering` |
+| **[Advanced House Regression](https://github.com/MDVR9980/advanced-house-regression)** | Predicting prices using Ensemble methods (XGBoost, Ridge) with high accuracy. | `Regression` `XGBoost` |
+| **[Deep Learning Assignments](https://github.com/MDVR9980/Deep-Learning-Assinment)** | Neural Network implementations and architecture experiments. | `NN` `Backpropagation` |
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <!-- Stats: Hiding PHP and HTML to focus on Python/AI -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=nightowl&count_private=true&hide_border=true&bg_color=011627&hide=php,html,css,javascript,blade" height="150" alt="stats graph" />
   
-  <!-- Languages: Shows your move to Python -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&exclude_repo=talking-calculator" height="150" alt="languages graph" />
+  <!-- Languages: Highlighting Python -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=nightowl&hide_border=true&bg_color=011627&hide=php,html,css,javascript,blade,hack" height="150" alt="languages graph" />
 </div>
-
 <br>
-
-<!-- Snake Animation: The coolest feature for GitHub profiles -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDVR9980&theme=radical&hide_border=true&background=0d1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDVR9980&theme=nightowl&hide_border=true&background=011627" alt="streak graph" />
 </div>
-
----
-
-## 🏆 Honours & Certifications
-
-### 🏅 Achievements
-- **Rank 2 & Top GPA**, BSc in Artificial Intelligence Program.
-- **Top 5%** Contributor on Kaggle Notebooks.
-- **2nd Place**, University Programming Contest (Algorithm Design).
-
-### 🎓 Professional Certificates
-- **Python for Data Science (Intermediate to Advanced)** – Codeyad
-- **LPIC-1 & LPIC-2 (Linux for AI Servers)** – Maktabkhooneh
-- **Docker for DevOps (ML Model Serving)** – Maktabkhooneh
-- **Deep Learning & Neural Networks** – *Self-Study / Coursera Path*
 
 ---
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8d99ae,100:2b2d42&height=100&section=footer&text=Data%20%7C%20Code%20%7C%20Intelligence&fontSize=20&fontColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=80&section=footer&text=MDVR%20%7C%20Building%20Intelligence&fontSize=20&fontColor=ffffff"/>
 </div>
