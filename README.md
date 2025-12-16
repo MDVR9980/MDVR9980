@@ -1,13 +1,13 @@
-<!-- 1. HEADER: Visual Wave Only (No Text inside image = No Overlap) -->
+<!-- 1. HEADER: Visual Wave (No Text inside image) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=150&section=header&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&animation=fadeIn"/>
 </div>
 
 <!-- 2. TYPOGRAPHY: Big Name & Typing Effect -->
 <div align="center">
   <h1 align="center" style="font-size: 60px; margin-bottom: 0;">MDVR</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Deep+Learning;Computer+Vision+%26+NLP+Researcher;Coding+Neural+Networks;Python+%7C+PyTorch+%7C+OpenCV" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F260&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Deep+Learning;Computer+Vision+%26+NLP+Researcher;Coding+Neural+Networks;Python+%7C+PyTorch+%7C+OpenCV" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,10 +34,10 @@
 
 <br>
 
-<!-- 4. TROPHIES: 3D Achievements (Best Visual) -->
+<!-- 4. TROPHIES: 3D Achievements -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=MDVR9980&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
+    <img src="https://github-profile-trophies.vercel.app/?username=MDVR9980&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
   </a>
 </div>
 
@@ -49,9 +49,6 @@
 
 I am **MDVR**, an AI Engineer based in Iran. I have filtered out everything else to focus purely on **Artificial Intelligence**. My repository is a collection of experiments in **Deep Learning**, **Computer Vision**, and **Data Clustering**.
 
-- 🔭 **Focus:** Unsupervised Learning, Transformers, & MLOps.
-- 🐍 **Tool of Choice:** Python (Everything else is noise).
-
 ---
 
 ## 🧠 The Arsenal (Tech Stack)
@@ -62,30 +59,46 @@ I am **MDVR**, an AI Engineer based in Iran. I have filtered out everything else
 
 ---
 
-## 🧬 Elite Projects Collection
+## 🧬 Featured Projects (Graphical Showcase)
 
-Only my best work in AI and Python.
+<div align="center">
 
-### 👁️ Computer Vision (Seeing the World)
-| Project | Details | Tech |
-| :--- | :--- | :--- |
-| **[🚗 Iranian License Plate Segmentation](https://github.com/MDVR9980/Iranian-License-Plate-Segmentation)** | High-precision segmentation of license plates using Deep Learning. | `OpenCV` `DL` |
-| **[🌸 Saffron Image Processing](https://github.com/MDVR9980/saffronImageProcess)** | Smart agricultural AI for analyzing saffron quality. | `Image Proc` `NumPy` |
-| **[📐 CV Algorithms](https://github.com/MDVR9980/Computer-Vision-Assinment)** | Implementation of core vision algorithms from scratch. | `CV2` `Math` |
+### 👁️ Computer Vision & Processing
+<a href="https://github.com/MDVR9980/Iranian-License-Plate-Segmentation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Iranian-License-Plate-Segmentation&theme=radical&bg_color=0D1117" />
+</a>
+<a href="https://github.com/MDVR9980/saffronImageProcess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=saffronImageProcess&theme=radical&bg_color=0D1117" />
+</a>
 
-### 🗣️ NLP & Data Science (Understanding Data)
-| Project | Details | Tech |
-| :--- | :--- | :--- |
-| **[🇮🇷 Persian Sentiment Analysis](https://github.com/MDVR9980/telegram-sentiment-analysis-fa)** | NLP model for mining sentiments in Persian Telegram chats. | `NLP` `Text Mining` |
-| **[📈 Golestan Clustering](https://github.com/MDVR9980/Golestan-Clustering)** | **(New)** Advanced clustering (K-Means/DBSCAN) on complex datasets. | `Unsupervised` |
-| **[🏠 Advanced House Regression](https://github.com/MDVR9980/advanced-house-regression)** | Stacked Ensemble learning for price prediction. | `XGBoost` `Ridge` |
-| **[🚫 Scam Detection](https://github.com/MDVR9980/Employment-Scam-Detection)** | Text classification to catch fraudulent job ads. | `Scikit-learn` |
+<br><br>
 
-### 🤖 Automation Agents (Bots)
-| Project | Details |
-| :--- | :--- |
-| **[Anonymous Connect Bot](https://github.com/MDVR9980/Anonymous-Connect-Bot)** | Complex matching algorithm for anonymous chats. |
-| **[MDVR Private Bot](https://github.com/MDVR9980/MDVR_Pv_Bot)** | Personal assistant architecture. |
+### 🗣️ NLP & Text Intelligence
+<a href="https://github.com/MDVR9980/telegram-sentiment-analysis-fa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=telegram-sentiment-analysis-fa&theme=radical&bg_color=0D1117" />
+</a>
+<a href="https://github.com/MDVR9980/Employment-Scam-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Employment-Scam-Detection&theme=radical&bg_color=0D1117" />
+</a>
+
+<br><br>
+
+### 📊 Data Science & Clustering
+<a href="https://github.com/MDVR9980/Golestan-Clustering">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Golestan-Clustering&theme=radical&bg_color=0D1117" />
+</a>
+<a href="https://github.com/MDVR9980/advanced-house-regression">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=advanced-house-regression&theme=radical&bg_color=0D1117" />
+</a>
+
+<br><br>
+
+### 🤖 Automation & Bots
+<a href="https://github.com/MDVR9980/Anonymous-Connect-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDVR9980&repo=Anonymous-Connect-Bot&theme=radical&bg_color=0D1117" />
+</a>
+
+</div>
 
 ---
 
@@ -93,20 +106,20 @@ Only my best work in AI and Python.
 
 <div align="center">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0f0c29&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MDVR9980&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="stats graph" />
   
   <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=dark&hide_border=true&bg_color=0f0c29&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDVR9980&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=php,html,css,javascript,blade,hack,scss,jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
 <br>
 
-<!-- Activity Graph: The REPLACEMENT for the broken image -->
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDVR9980&bg_color=0f0c29&color=7F5AF0&line=00ff9d&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDVR9980&bg_color=0D1117&color=ff0055&line=00F260&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <!-- Footer Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:24243e,0:0f0c29&height=80&section=footer&text=&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=80&section=footer&text=&animation=fadeIn"/>
 </div>
